@@ -8,6 +8,7 @@ df= pd.read_csv("D:\\Study\\Data Science\\Python\\ineuron\\Data_Set\\AIPredictiv
 
 #in case dataset has any nan value fill it with 0
 df.fillna(0)
+
 # print(df)
 
 # Override default pandas configuration
